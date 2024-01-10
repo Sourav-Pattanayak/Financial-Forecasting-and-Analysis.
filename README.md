@@ -1,4 +1,4 @@
-# Financial-Forecasting-and-Analysis.
+# Financial-Forecasting-and-Revenue-Analysis.
 
 
 ## Overview 🌐
@@ -112,13 +112,3 @@ The Home view serves as the central navigation hub, providing access to specific
 - Stakeholder Request 📝
 - Support 🤝
 - Overall Report 📊
-
-### Finance View 💰
-
-(Modify this section to include a description of changes made to the Finance View.)
-
-### Sales View 🛒
-
-### Marketing View 📢
-
-### Supply Chain View ⛓️
