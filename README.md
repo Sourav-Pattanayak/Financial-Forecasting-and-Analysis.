@@ -59,7 +59,7 @@ Mastery of DAX functions and business terms, including:
 - Gross Margin 📊
 - Net sales 💹
 - Net profit 💸
-- COGC (Cost of Goods Sold) 💼
+- COGS (Cost of Goods Sold) 💼
 - YTD (Year to Date) 🗓️
 - YTG (Year to Go) 🗓️
 - Direct 🎯
